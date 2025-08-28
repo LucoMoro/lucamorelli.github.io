@@ -70,8 +70,8 @@ a:hover {
 
 /* User Image */
 .user-image {
-  width: 225px;
-  height: 225px;
+  width: 275px;
+  height: 275px;
   /*-webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
   /*filter: grayscale(0%); */
 }
